@@ -222,9 +222,9 @@ dist
 lib/
 
 # Javascript files
-**/*.js
-**/*.js.map
-**/*.unit.js
-**/*.unit.js,map
-**/*.d.ts
-**/*.unit.d.ts
+#**/*.js
+#**/*.js.map
+#**/*.unit.js
+#**/*.unit.js,map
+#**/*.d.ts
+#**/*.unit.d.ts

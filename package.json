@@ -2,7 +2,7 @@
   "name": "compareSlashes",
   "version": "1.0.0",
   "description": "",
-  "main": "src/compareSlashes.ts",
+  "main": "src/compareSlashes.js",
   "scripts": {
     "clean": "del ./lib && del ./node_modules && del ./tsconfig.tsbuildinfo ",
     "build": "tsc",

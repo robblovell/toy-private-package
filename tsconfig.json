@@ -8,7 +8,6 @@
     "module": "commonjs",
     "moduleResolution": "node",
     "noLib": false,
-    "outDir": "./lib",
     "experimentalDecorators": true,
     "esModuleInterop": true,
     "skipLibCheck": true,
